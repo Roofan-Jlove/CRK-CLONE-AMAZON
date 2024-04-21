@@ -149,8 +149,9 @@ nav{
     min-height: 200px;
     z-index: 1;
 }
+
 .box-col a {
-    font-size: 13px;
+    font-size: 18px;
     color: #009999;
     font-weight: 500;
 }
